@@ -1,114 +1,61 @@
-![logo](supun-new.png)
-<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
+# Welcome to Remix Chess!
 
-<h1 align="center">Hi 👋, Here is OpenAl</h1>
-<h3 align="center">A passionate Programming team from UAE</h3>
-<p align="center">We are fascinated by how computer technology 🌐 has brought changes to our lives that could never have been predicted; witnessing the expansion of computer science allowed us to consider studying software engineering from an early age, and my enthusiasm has perpetually developed since this time. And also we love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️</p>
-<p align="center"> 
- <img src="https://komarev.com/ghpvc/?username=supuna97&label=Profile%20views&color=0e75b6&style=flat" alt="supun nanayakkara" /> 
-<!--  <img src="https://img.shields.io/badge/Languages-Python | Java | PHP | Typescript | Node | React -green.svg" alt="supun nanayakkara's languages" /> -->
-<!--  <img alt="Profile followers" src="https://img.shields.io/github/followers/supuna97"> -->
-</p>
+## Play
 
+You are the white piece. Click a piece to select it and it will turn blue. The green squares show where you can move.
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/supunnanayakkara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="supunnanayakkara" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/9565088/supun-nanayakkara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="supun-nanayakkara" height="30" width="40" /></a>
-<a href="https://fb.com/supun.nanayakkaraii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="supun.nanayakkaraii" height="30" width="40" /></a>
-<a href="https://instagram.com/supun___lk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="supun___lk" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@supunnanayakkara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="supun nanayakkara" height="30" width="40" /></a>
-</p>
-<br>
+|     | A                                                                                  | B                                                                                  | C                                                                                  | D                                                                                  | E                                                                                  | F                                                                                  | G                                                                                  | H                                                                                  |
+| --- | ---------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
+| 8   | [![A8](https://remix-chess.fly.dev/piece/A8)](https://remix-chess.fly.dev/move/A8) | [![B8](https://remix-chess.fly.dev/piece/B8)](https://remix-chess.fly.dev/move/B8) | [![C8](https://remix-chess.fly.dev/piece/C8)](https://remix-chess.fly.dev/move/C8) | [![D8](https://remix-chess.fly.dev/piece/D8)](https://remix-chess.fly.dev/move/D8) | [![E8](https://remix-chess.fly.dev/piece/E8)](https://remix-chess.fly.dev/move/E8) | [![F8](https://remix-chess.fly.dev/piece/F8)](https://remix-chess.fly.dev/move/F8) | [![G8](https://remix-chess.fly.dev/piece/G8)](https://remix-chess.fly.dev/move/G8) | [![H8](https://remix-chess.fly.dev/piece/H8)](https://remix-chess.fly.dev/move/H8) |
+| 7   | [![A7](https://remix-chess.fly.dev/piece/A7)](https://remix-chess.fly.dev/move/A7) | [![B7](https://remix-chess.fly.dev/piece/B7)](https://remix-chess.fly.dev/move/B7) | [![C7](https://remix-chess.fly.dev/piece/C7)](https://remix-chess.fly.dev/move/C7) | [![D7](https://remix-chess.fly.dev/piece/D7)](https://remix-chess.fly.dev/move/D7) | [![E7](https://remix-chess.fly.dev/piece/E7)](https://remix-chess.fly.dev/move/E7) | [![F7](https://remix-chess.fly.dev/piece/F7)](https://remix-chess.fly.dev/move/F7) | [![G7](https://remix-chess.fly.dev/piece/G7)](https://remix-chess.fly.dev/move/G7) | [![H7](https://remix-chess.fly.dev/piece/H7)](https://remix-chess.fly.dev/move/H7) |
+| 6   | [![A6](https://remix-chess.fly.dev/piece/A6)](https://remix-chess.fly.dev/move/A6) | [![B6](https://remix-chess.fly.dev/piece/B6)](https://remix-chess.fly.dev/move/B6) | [![C6](https://remix-chess.fly.dev/piece/C6)](https://remix-chess.fly.dev/move/C6) | [![D6](https://remix-chess.fly.dev/piece/D6)](https://remix-chess.fly.dev/move/D6) | [![E6](https://remix-chess.fly.dev/piece/E6)](https://remix-chess.fly.dev/move/E6) | [![F6](https://remix-chess.fly.dev/piece/F6)](https://remix-chess.fly.dev/move/F6) | [![G6](https://remix-chess.fly.dev/piece/G6)](https://remix-chess.fly.dev/move/G6) | [![H6](https://remix-chess.fly.dev/piece/H6)](https://remix-chess.fly.dev/move/H6) |
+| 5   | [![A5](https://remix-chess.fly.dev/piece/A5)](https://remix-chess.fly.dev/move/A5) | [![B5](https://remix-chess.fly.dev/piece/B5)](https://remix-chess.fly.dev/move/B5) | [![C5](https://remix-chess.fly.dev/piece/C5)](https://remix-chess.fly.dev/move/C5) | [![D5](https://remix-chess.fly.dev/piece/D5)](https://remix-chess.fly.dev/move/D5) | [![E5](https://remix-chess.fly.dev/piece/E5)](https://remix-chess.fly.dev/move/E5) | [![F5](https://remix-chess.fly.dev/piece/F5)](https://remix-chess.fly.dev/move/F5) | [![G5](https://remix-chess.fly.dev/piece/G5)](https://remix-chess.fly.dev/move/G5) | [![H5](https://remix-chess.fly.dev/piece/H5)](https://remix-chess.fly.dev/move/H5) |
+| 4   | [![A4](https://remix-chess.fly.dev/piece/A4)](https://remix-chess.fly.dev/move/A4) | [![B4](https://remix-chess.fly.dev/piece/B4)](https://remix-chess.fly.dev/move/B4) | [![C4](https://remix-chess.fly.dev/piece/C4)](https://remix-chess.fly.dev/move/C4) | [![D4](https://remix-chess.fly.dev/piece/D4)](https://remix-chess.fly.dev/move/D4) | [![E4](https://remix-chess.fly.dev/piece/E4)](https://remix-chess.fly.dev/move/E4) | [![F4](https://remix-chess.fly.dev/piece/F4)](https://remix-chess.fly.dev/move/F4) | [![G4](https://remix-chess.fly.dev/piece/G4)](https://remix-chess.fly.dev/move/G4) | [![H4](https://remix-chess.fly.dev/piece/H4)](https://remix-chess.fly.dev/move/H4) |
+| 3   | [![A3](https://remix-chess.fly.dev/piece/A3)](https://remix-chess.fly.dev/move/A3) | [![B3](https://remix-chess.fly.dev/piece/B3)](https://remix-chess.fly.dev/move/B3) | [![C3](https://remix-chess.fly.dev/piece/C3)](https://remix-chess.fly.dev/move/C3) | [![D3](https://remix-chess.fly.dev/piece/D3)](https://remix-chess.fly.dev/move/D3) | [![E3](https://remix-chess.fly.dev/piece/E3)](https://remix-chess.fly.dev/move/E3) | [![F3](https://remix-chess.fly.dev/piece/F3)](https://remix-chess.fly.dev/move/F3) | [![G3](https://remix-chess.fly.dev/piece/G3)](https://remix-chess.fly.dev/move/G3) | [![H3](https://remix-chess.fly.dev/piece/H3)](https://remix-chess.fly.dev/move/H3) |
+| 2   | [![A2](https://remix-chess.fly.dev/piece/A2)](https://remix-chess.fly.dev/move/A2) | [![B2](https://remix-chess.fly.dev/piece/B2)](https://remix-chess.fly.dev/move/B2) | [![C2](https://remix-chess.fly.dev/piece/C2)](https://remix-chess.fly.dev/move/C2) | [![D2](https://remix-chess.fly.dev/piece/D2)](https://remix-chess.fly.dev/move/D2) | [![E2](https://remix-chess.fly.dev/piece/E2)](https://remix-chess.fly.dev/move/E2) | [![F2](https://remix-chess.fly.dev/piece/F2)](https://remix-chess.fly.dev/move/F2) | [![G2](https://remix-chess.fly.dev/piece/G2)](https://remix-chess.fly.dev/move/G2) | [![H2](https://remix-chess.fly.dev/piece/H2)](https://remix-chess.fly.dev/move/H2) |
+| 1   | [![A1](https://remix-chess.fly.dev/piece/A1)](https://remix-chess.fly.dev/move/A1) | [![B1](https://remix-chess.fly.dev/piece/B1)](https://remix-chess.fly.dev/move/B1) | [![C1](https://remix-chess.fly.dev/piece/C1)](https://remix-chess.fly.dev/move/C1) | [![D1](https://remix-chess.fly.dev/piece/D1)](https://remix-chess.fly.dev/move/D1) | [![E1](https://remix-chess.fly.dev/piece/E1)](https://remix-chess.fly.dev/move/E1) | [![F1](https://remix-chess.fly.dev/piece/F1)](https://remix-chess.fly.dev/move/F1) | [![G1](https://remix-chess.fly.dev/piece/G1)](https://remix-chess.fly.dev/move/G1) | [![H1](https://remix-chess.fly.dev/piece/H1)](https://remix-chess.fly.dev/move/H1) |
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+![Game Stats](https://remix-chess.fly.dev/stats)
 
-<h3 align="left">Languages and Tools:</h3>
+## Running
 
-- Backend
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,java,nodejs,py,spring,flask,fastapi,express,nestjs" />
-  </a>
-</p>
+- The instructions for setting up fly are below.
+- Modify the redirects in the resource API routes.
 
-- Frontend
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,redux,tailwind,materialui" />
-  </a>
-</p>
+## Fly Setup
 
-- Database
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
-  </a>
-</p>
+1. [Install Fly](https://fly.io/docs/getting-started/installing-flyctl/)
 
-- Cloud Servers
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=azure,aws,gcp,firebase,cloudflare" />
-  </a>
-</p>
+2. Sign up and log in to Fly
 
-- Tools
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,figma,xd,idea,vscode,postman,linux" />
-  </a>
-</p>
+   ```sh
+   flyctl auth signup
+   ```
 
-<br/>
+3. Setup Fly. It might ask if you want to deploy, say no since you haven't built the app yet.
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+   ```sh
+   flyctl launch
+   ```
 
-<h3 align="left">Trophy:</h3>
+## Development
 
-<p align="center">
-<img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif"  width="100px" height="100px"></p>
-  
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=supuna97&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=MultiLanguage,Commits,PullRequest,Reviews">
- </div>
+From your terminal:
 
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=supuna97&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=Repositories,Organizations,Stars,Followers">
- </div>
- <br><br>
+```sh
+npm run dev
+```
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+This starts your app in development mode, rebuilding assets on file changes.
 
-<h3 align="left">GitHub Stats:</h3>
-<div align="center">
- 
-![Supun's GitHub stats](https://github-readme-stats.vercel.app/api?username=supuna97\&theme=midnight-purple\&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage\&hide=contribs,issues)
+## Deployment
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=supuna97&theme=midnight-purple)](https://git.io/streak-stats)
+If you've followed the setup instructions already, all you need to do is run this:
 
-</div>
+```sh
+npm run deploy
+```
 
-<br><br>
+You can run `flyctl info` to get the url and ip address of your server.
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-<h3 align="left">Activity:</h3>
-
-![Supuna97's Graph](https://github-readme-activity-graph.vercel.app/graph?username=supuna97&custom_title=Supun's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
-<br><br>
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-<h3 align="left">Achievements:</h3>
-
-[![An image of @supuna97's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/supuna97)](https://holopin.io/@supuna97)
-<br><br><br>
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
-
-<br>
-<p align="right" > Created with 🧡 by <a href="http://supun.traditionalme.life">Supun Nanayakkara</a></p>
+Check out the [fly docs](https://fly.io/docs/getting-started/node/) for more information.
