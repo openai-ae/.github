@@ -1,18 +1,3 @@
-### Hi there 👋🏻
-# 
-<p align="center">
-    <picture>
-        <source 
-            srcset="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohammadzainabbas&theme=github_dark" 
-            media="(prefers-color-scheme: dark)"
-        >
-    <img 
-            src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohammadzainabbas&theme=github" 
-            alt="GitHub - Profile summary card"
-        >
-    </picture>
-</p>
-
 <p align="center">
     <picture>
         <source
